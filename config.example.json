@@ -1,0 +1,6 @@
+{
+  "api_base_url": "https://api.shiftboard.fclinlab.com",
+  "username": "your-username",
+  "password": "your-password",
+  "require_confirmation": false
+}
